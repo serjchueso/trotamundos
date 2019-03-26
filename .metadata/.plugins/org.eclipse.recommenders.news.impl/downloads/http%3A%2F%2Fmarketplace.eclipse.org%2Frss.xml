@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="utf-8" ?><rss version="2.0" xml:base="http://marketplace.eclipse.org/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:og="http://ogp.me/ns#" xmlns:article="http://ogp.me/ns/article#" xmlns:book="http://ogp.me/ns/book#" xmlns:profile="http://ogp.me/ns/profile#" xmlns:video="http://ogp.me/ns/video#" xmlns:product="http://ogp.me/ns/product#" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <channel>
+    <title>Eclipse Plugins, Bundles and Products - Eclipse Marketplace</title>
+    <link>http://marketplace.eclipse.org/</link>
+    <description></description>
+    <language>en</language>
+     <atom:link href="http://marketplace.eclipse.org/rss.xml" rel="self" type="application/rss+xml" />
+      <item>
+    <title>Nodeclipse Plugins List</title>
+    <link>http://marketplace.eclipse.org/content/nodeclipse-plugins-list</link>
+    <description>&lt;div class=&quot;field field-name-field-resource-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; class=&quot;img-responsive&quot; src=&quot;http://marketplace.eclipse.org/sites/default/files/installbutton-inst.png&quot; width=&quot;44&quot; height=&quot;25&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-updated field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Updated:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Tue, 2019-03-26 08:52&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;a href=&quot;/search/content/%22Nodeclipse%20organization%22&quot;&gt;Nodeclipse organization&lt;/a&gt;&lt;div class=&quot;field field-name-shared-date-created field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Created:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Sun, 2013-08-11 10:52&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-submitted-by field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Submitted by:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/user/pverest/listings&quot; title=&quot;Paul Verest&quot;&gt;Paul Verest&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;Nodeclipse Plugins List is convenient way to install Eclipse plugins. Just drag-and-drop such  image for the plugin that you need onto Eclipse menu bar. Drag-and-drop is quickest way to install any plugin in Eclipse Kepler (just do small experiment yourself). It was started because &lt;a href=&quot;https://marketplace.eclipse.org/content/enide-eclipse-nodejs-ide&quot; rel=&quot;nofollow&quot;&gt;Enide.p2f&lt;/a&gt;, ran into regression bug on Eclipse Kepler. Currently list is being updated with manually picked items. You can add more on &lt;a href=&quot;https://github.com/Nodeclipse/www.nodeclipse.org/&quot; rel=&quot;nofollow&quot;&gt;https://github.com/Nodeclipse/www.nodeclipse.org/&lt;/a&gt; Plugins included (initially): General - Nodeclipse Plugins List plugin (access this list with one click from Eclipse)&lt;/p&gt;
+&lt;p&gt;- Nodeclipse Git Addon&lt;/p&gt;
+&lt;p&gt;- Overview plugin for Eclipse (code birdview) (has some bugs in standard perspectives)&lt;/p&gt;
+&lt;p&gt;- Quick Search for Eclipse&lt;/p&gt;
+&lt;p&gt;- Start Explorer or shell&lt;/p&gt;
+&lt;p&gt;- HTML Editor (standard) 3.5.0 Kepler Node.js &amp;amp; JavaScript&lt;/p&gt;
+&lt;p&gt;- Nodeclipse (Nodeclipse core, Chromium Tools, Markdown Editor)&lt;/p&gt;
+&lt;p&gt;- GitHub Flavored Markdown (GFM) Viewer - Eclipse 4.x Chrome Theme&lt;/p&gt;
+&lt;p&gt;- JSDT jQuery Integration - ExtJS JSDT Integration&lt;/p&gt;
+&lt;p&gt;- JSON Editor Plugin (optional for Outline as Node Editor can do as well)&lt;/p&gt;
+&lt;p&gt;- TypeSctipt Editor&lt;/p&gt;
+&lt;p&gt;- Nodeclipse CoffeeScript Editor&lt;/p&gt;
+&lt;p&gt;The list itself is hosted on nodeclipse.org server and is updated independently. In a way, this is alternative for marketplace client (that sometimes needs several second before you can enter what you look for). Current version can&#039;t check if the plugin is already installed. Please contribute to the list with plugins for Node.js &amp;amp; Eclipse development that you know. &lt;a href=&quot;https://github.com/Nodeclipse/www.nodeclipse.org/blob/gh-pages/updates/list.md&quot; rel=&quot;nofollow&quot;&gt;https://github.com/Nodeclipse/www.nodeclipse.org/blob/gh-pages/updates/l...&lt;/a&gt; That means that this is open-source solution that anybody can contribute! Attention: be sure to updating JDK to the latest release, as Eclipse Kepler with Internet Explorer (on Windows 7) may crash on old JDK in some cases (e.g. if you navigate away from opened page and then close the window). &lt;a href=&quot;http://with-eclipse.github.io/&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Sun, 11 Aug 2013 14:52:50 +0000</pubDate>
+ <dc:creator>pverest</dc:creator>
+ <guid isPermaLink="false">1084253 at http://marketplace.eclipse.org</guid>
+ <comments>http://marketplace.eclipse.org/content/nodeclipse-plugins-list#comments</comments>
+  </item>
+  <item>
+    <title>Eclipse PDE (Plug-in Development Environment)</title>
+    <link>http://marketplace.eclipse.org/content/eclipse-pde-plug-development-environment</link>
+    <description>&lt;div class=&quot;field field-name-field-resource-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; class=&quot;img-responsive&quot; src=&quot;http://marketplace.eclipse.org/sites/default/files/default_images/default_2.png&quot; width=&quot;110&quot; height=&quot;80&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-updated field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Updated:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Tue, 2019-03-26 08:18&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;a href=&quot;/search/content/%22Eclipse%22&quot;&gt;Eclipse&lt;/a&gt;&lt;div class=&quot;field field-name-shared-date-created field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Created:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Fri, 2015-03-13 01:26&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-submitted-by field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Submitted by:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/user/pverest/listings&quot; title=&quot;Paul Verest&quot;&gt;Paul Verest&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;The Plug-in Development Environment (PDE) provides tools to create, develop, test, debug, build and deploy Eclipse plug-ins, fragments, features, update sites and RCP products. PDE also provides comprehensive OSGi tooling, which makes it an ideal environment for component programming, not just Eclipse plug-in development. Usually you get PDE when downloading Eclipse IDE for Eclipse Committers package from &lt;a href=&quot;https://www.eclipse.org/downloads/&quot; rel=&quot;nofollow&quot;&gt;https://www.eclipse.org/downloads/&lt;/a&gt; or Eclipse SDK package from &lt;a href=&quot;http://download.eclipse.org/eclipse/downloads/&quot; rel=&quot;nofollow&quot;&gt;Eclipse project&lt;/a&gt;, but you also can add PDE into your existing Eclipse instance. Listed in &lt;a href=&quot;/content/nodeclipse-plugins-list&quot; title=&quot;Nodeclipse Plugins List&quot; rel=&quot;nofollow&quot;&gt;Nodeclipse Plugins List&lt;/a&gt; &lt;a href=&quot;http://with-eclipse.github.io/&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Fri, 13 Mar 2015 05:26:47 +0000</pubDate>
+ <dc:creator>pverest</dc:creator>
+ <guid isPermaLink="false">2234530 at http://marketplace.eclipse.org</guid>
+ <comments>http://marketplace.eclipse.org/content/eclipse-pde-plug-development-environment#comments</comments>
+  </item>
+  <item>
+    <title>拓润 Minimalist .proto files Editor (for Protocol Buffers and gRPC)</title>
+    <link>http://marketplace.eclipse.org/content/%E6%8B%93%E6%B6%A6-minimalist-proto-files-editor-protocol-buffers-and-grpc</link>
+    <description>&lt;div class=&quot;field field-name-field-resource-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; class=&quot;img-responsive&quot; src=&quot;http://marketplace.eclipse.org/sites/default/files/protoEditor-logo.png&quot; width=&quot;105&quot; height=&quot;55&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-updated field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Updated:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Tue, 2019-03-26 07:26&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;a href=&quot;/search/content/%22%E6%8B%93%E6%B6%A6%20TopRank.cc%22&quot;&gt;拓润 TopRank.cc&lt;/a&gt;&lt;div class=&quot;field field-name-shared-date-created field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Created:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Wed, 2016-11-02 11:14&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-submitted-by field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Submitted by:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/user/pverest/listings&quot; title=&quot;Paul Verest&quot;&gt;Paul Verest&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;Minimalist Editor for .proto files (for Protocol Buffers IDL and gRPC) with highlight for keywords, strings and matching brackets. No Outline. Just 25KB.&lt;/p&gt;
+&lt;p&gt;Listed in &lt;a href=&quot;/content/nodeclipse-plugins-list&quot; title=&quot;Nodeclipse Plugins List&quot; rel=&quot;nofollow&quot;&gt;Nodeclipse Plugins List&lt;/a&gt;.&lt;br /&gt;&lt;a href=&quot;http://with-eclipse.github.io/&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Wed, 02 Nov 2016 15:14:14 +0000</pubDate>
+ <dc:creator>pverest</dc:creator>
+ <guid isPermaLink="false">3146377 at http://marketplace.eclipse.org</guid>
+ <comments>http://marketplace.eclipse.org/content/%E6%8B%93%E6%B6%A6-minimalist-proto-files-editor-protocol-buffers-and-grpc#comments</comments>
+  </item>
+  <item>
+    <title>Eclipse JST Server Adapters (Apache Tomcat, JOnAS, J2EE)</title>
+    <link>http://marketplace.eclipse.org/content/eclipse-jst-server-adapters-apache-tomcat-jonas-j2ee</link>
+    <description>&lt;div class=&quot;field field-name-field-resource-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; class=&quot;img-responsive&quot; src=&quot;http://marketplace.eclipse.org/sites/default/files/wtp_logo_2010_1.png&quot; width=&quot;80&quot; height=&quot;80&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-updated field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Updated:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Tue, 2019-03-26 07:26&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;a href=&quot;/search/content/%22Nodeclipse/Enide%22&quot;&gt;Nodeclipse/Enide&lt;/a&gt;&lt;div class=&quot;field field-name-shared-date-created field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Created:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Thu, 2015-02-05 23:21&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-submitted-by field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Submitted by:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/user/pverest/listings&quot; title=&quot;Paul Verest&quot;&gt;Paul Verest&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;This is quick way to install Eclipse JST Server Adapters and JST Server Adapters Extentions (Apache Tomcat, JOnAS, J2EE)&lt;/p&gt;
+&lt;p&gt;This entry was created when Eclipse IDE for Java Developers was promoted download pinned to position #1 and new users could find it confusing to add standard Tomcat support as it is within Eclipse IDE for Java EE Developers. The purpose of the entry is to make install with one drag-and-drop by integrating External Install button. Example of such usage is &lt;a href=&quot;/content/nodeclipse-plugins-list&quot; title=&quot;Nodeclipse Plugins List&quot; rel=&quot;nofollow&quot;&gt;Nodeclipse Plugins List&lt;/a&gt; &lt;a class=&quot;drag&quot; href=&quot;http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=1084253&quot; rel=&quot;nofollow&quot;&gt;&lt;/a&gt; Notice for Users of Eclipse before Luna: Eclipse WTP has a lot of dependencies between projects. This entry is not update path, but for installation into Luna. &lt;a href=&quot;http://with-eclipse.github.io/&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Fri, 06 Feb 2015 04:21:18 +0000</pubDate>
+ <dc:creator>pverest</dc:creator>
+ <guid isPermaLink="false">2177882 at http://marketplace.eclipse.org</guid>
+ <comments>http://marketplace.eclipse.org/content/eclipse-jst-server-adapters-apache-tomcat-jonas-j2ee#comments</comments>
+  </item>
+  <item>
+    <title>Minimalist Gradle Editor</title>
+    <link>http://marketplace.eclipse.org/content/minimalist-gradle-editor</link>
+    <description>&lt;div class=&quot;field field-name-field-resource-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; class=&quot;img-responsive&quot; src=&quot;http://marketplace.eclipse.org/sites/default/files/gradle_256_0.png&quot; width=&quot;80&quot; height=&quot;80&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-updated field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Updated:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Tue, 2019-03-26 07:20&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;a href=&quot;/search/content/%22Nodeclipse/Enide%22&quot;&gt;Nodeclipse/Enide&lt;/a&gt;&lt;div class=&quot;field field-name-shared-date-created field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Created:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Tue, 2014-01-07 04:41&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-submitted-by field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Submitted by:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/user/pverest/listings&quot; title=&quot;Paul Verest&quot;&gt;Paul Verest&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/Nodeclipse/GradleEditor&quot; rel=&quot;nofollow&quot;&gt;https://github.com/Nodeclipse/GradleEditor&lt;/a&gt; Minimalist Gradle Editor for &lt;code&gt;build.gradle&lt;/code&gt; files with highlight for keywords, strings and matching brackets and android support (by taking some additional keywords from &lt;a href=&quot;http://tools.android.com/tech-docs/new-build-system&quot; rel=&quot;nofollow&quot;&gt;android plugin&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;This plugin is also included into &lt;a href=&quot;http://marketplace.eclipse.org/content/gradle&quot; rel=&quot;nofollow&quot;&gt;Gradle (Enide)&lt;/a&gt; and &lt;a href=&quot;http://marketplace.eclipse.org/content/gradle-ide-pack&quot; rel=&quot;nofollow&quot;&gt;Gradle IDE Pack&lt;/a&gt; marketplace entries.&lt;/p&gt;
+&lt;p&gt;The intended use case is to have gradle build outside of Eclipse, and also as simple Editor with highlight. Good points: less than 50KB. Check &lt;a href=&quot;http://marketplace.eclipse.org/content/eclipse-color-theme&quot; rel=&quot;nofollow&quot;&gt;Eclipse Color Theme&lt;/a&gt; 0.14+ for colorful support. All sources are on GitHub &lt;a href=&quot;https://github.com/Nodeclipse/GradleEditor&quot; rel=&quot;nofollow&quot;&gt;GitHub&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;The Editor was not intended to grow bigger, hopefully Pivotal would have something superior and light soon. (Currently you need to install full Eclipse-Groovy, that is too heavy for some editing, but may be what you need if you write 100+ of Groovy code lines.)&lt;/p&gt;
+&lt;p&gt;UPDATE 2016: Pivotal Gradle (STS) is in minimal maintainance, future development goes in Eclipse buildship project lead by Gradleware, but it is not in feature parity with Pivotal Gradle (STS). For full-featured Gradle tools check Gradle Integration for Eclipse by Pivotal &lt;a href=&quot;http://marketplace.eclipse.org/content/gradle-integration-eclipse&quot; rel=&quot;nofollow&quot;&gt;http://marketplace.eclipse.org/content/gradle-integration-eclipse&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;UPDATE: I have tried Eclipse with both &quot;Gradle Integration for Eclipse&quot; and &quot;Groovy-Eclipse&quot; installed. Then right-click and Gradle -&amp;gt; Enable DSL Support. This added gradle sources as special ClasspathContainer. However if not writing groovy, it has little use for gradle itself. For example, I could click-through dependencies {} entries to see that they are of DependencyHandler type, but there is no hint to select compile or testCompile (neither group, name attributes). From repositories {} or test {} I can click through to Project class, but no gradle specific hints and validations. Summary: may be very useful for gradle plugins developers or when adding groovy script as a task, but may be only distracting for gradle users.&lt;/p&gt;
+&lt;p&gt;UPDATE 2016: Installing Groovy-Eclipse into Mars.1/2 downgrades Eclipse Java compiler to x.0 Listed in &lt;a href=&quot;/content/nodeclipse-plugins-list&quot; title=&quot;Nodeclipse Plugins List&quot; rel=&quot;nofollow&quot;&gt;Nodeclipse Plugins List&lt;/a&gt;.&lt;br /&gt;&lt;a href=&quot;http://with-eclipse.github.io/&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Bonus: below is &lt;code&gt;build.gradle&lt;/code&gt; example to build standard Android project. For the latest check &lt;a href=&quot;https://github.com/Nodeclipse/nodeclipse-1/blob/master/org.nodeclipse.enide.editors.gradle/docs/android/build.gradle&quot; rel=&quot;nofollow&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;pre&gt;
+&lt;code&gt;
+buildscript {
+    repositories {
+        mavenCentral()
+    }
+    dependencies {
+        classpath &#039;com.android.tools.build:gradle:0.9.+&#039;
+    }
+}
+apply plugin: &#039;android&#039;
+
+dependencies {
+    compile fileTree(dir: &#039;libs&#039;, include: &#039;*.jar&#039;)
+}
+
+android {
+    compileSdkVersion 19
+    buildToolsVersion &quot;19.0.0&quot;
+
+    sourceSets {
+        main {
+            manifest.srcFile &#039;AndroidManifest.xml&#039;
+            java.srcDirs = [&#039;src&#039;]
+            resources.srcDirs = [&#039;src&#039;]
+            aidl.srcDirs = [&#039;src&#039;]
+            renderscript.srcDirs = [&#039;src&#039;]
+            res.srcDirs = [&#039;res&#039;]
+            assets.srcDirs = [&#039;assets&#039;]
+        }
+
+        // Move the tests to tests/java, tests/res, etc...
+        androidTest.setRoot(&#039;tests&#039;)
+
+        // Move the build types to build-types/
+        // For instance, build-types/debug/java, build-types/debug/AndroidManifest.xml, ...
+        // This moves them out of them default location under src//... which would
+        // conflict with src/ being used by the main source set.
+        // Adding new build types or product flavors should be accompanied
+        // by a similar customization.
+        debug.setRoot(&#039;build-types/debug&#039;)
+        release.setRoot(&#039;build-types/release&#039;)
+    }
+}
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Tue, 07 Jan 2014 09:41:46 +0000</pubDate>
+ <dc:creator>pverest</dc:creator>
+ <guid isPermaLink="false">1407346 at http://marketplace.eclipse.org</guid>
+ <comments>http://marketplace.eclipse.org/content/minimalist-gradle-editor#comments</comments>
+  </item>
+  <item>
+    <title>CSV Edit Resurrector</title>
+    <link>http://marketplace.eclipse.org/content/csv-edit-resurrector</link>
+    <description>&lt;div class=&quot;field field-name-field-resource-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; class=&quot;img-responsive&quot; src=&quot;http://marketplace.eclipse.org/sites/default/files/resurrector-CSV.png&quot; width=&quot;85&quot; height=&quot;80&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-updated field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Updated:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Tue, 2019-03-26 07:20&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;a href=&quot;/search/content/%22No%22&quot;&gt;No&lt;/a&gt;&lt;div class=&quot;field field-name-shared-date-created field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Created:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Tue, 2017-10-31 11:37&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-submitted-by field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Submitted by:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/user/pverest/listings&quot; title=&quot;Paul Verest&quot;&gt;Paul Verest&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;This is refresh build of CSV Edit v1.2 fork by Mathieu Savy at &lt;a href=&quot;https://github.com/Mathieuu/CsvEdit&quot; rel=&quot;nofollow&quot;&gt;https://github.com/Mathieuu/CsvEdit&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;CSV Edit v1.1 was available before at &lt;a href=&quot;https://marketplace.eclipse.org/content/csv-edit&quot; rel=&quot;nofollow&quot;&gt;https://marketplace.eclipse.org/content/csv-edit&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;New features of 1.2.x&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;In the new CSVEdit version, it is now possible to edit a row in a form. That is very convinient, when columns are very wide. Just right-click a row, then Edit.&lt;/p&gt;
+&lt;p&gt;And even specify columns containing multiple values and their delimiter.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Tue, 31 Oct 2017 15:37:05 +0000</pubDate>
+ <dc:creator>pverest</dc:creator>
+ <guid isPermaLink="false">3739198 at http://marketplace.eclipse.org</guid>
+ <comments>http://marketplace.eclipse.org/content/csv-edit-resurrector#comments</comments>
+  </item>
+  <item>
+    <title>Nodeclipse EditBox - background colors themes to highlight code blocks for C++, Java, JavaScript, Python, Ruby and others</title>
+    <link>http://marketplace.eclipse.org/content/nodeclipse-editbox-background-colors-themes-highlight-code-blocks-c-java-javascript-python</link>
+    <description>&lt;div class=&quot;field field-name-field-resource-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; class=&quot;img-responsive&quot; src=&quot;http://marketplace.eclipse.org/sites/default/files/editbox-logo_0_green.png&quot; width=&quot;80&quot; height=&quot;80&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-updated field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Updated:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Tue, 2019-03-26 07:20&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;a href=&quot;/search/content/%22Nodeclipse/Enide%22&quot;&gt;Nodeclipse/Enide&lt;/a&gt;&lt;div class=&quot;field field-name-shared-date-created field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Created:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Thu, 2014-03-27 00:53&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-submitted-by field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Submitted by:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/user/pverest/listings&quot; title=&quot;Paul Verest&quot;&gt;Paul Verest&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;Yes, it is the longest name on Marketplace. Beating &quot;IBM® WebSphere® Application Server V8.5 Liberty Profile Developer Tools for Eclipse Helios &amp;amp; Indigo&quot;. Included in &lt;a href=&quot;//marketplace.eclipse.org/content/color-ide-pack&quot; rel=&quot;nofollow&quot;&gt;Color IDE Pack&lt;/a&gt;. Nodeclipse EditBox is using background colors themes to highlight code blocks for C++, Java, JavaScript, PHP, Python, Ruby and other languages.&lt;/p&gt;
+&lt;p&gt;This is hope for revival of EditBox plugin by &lt;a href=&quot;http://marketplace.eclipse.org/content/editbox&quot; rel=&quot;nofollow&quot;&gt;Piotr Metel&lt;/a&gt;. Bundled themes (see Screenshots):&lt;/p&gt;
+&lt;p&gt;- Default&lt;/p&gt;
+&lt;p&gt;- shades of green&lt;/p&gt;
+&lt;p&gt;- Whitebox - only border highlight for mouse-over&lt;/p&gt;
+&lt;p&gt;- RainbowDrops - for black background themes, e.g. Moonrise, Black by Jeeeyul, Dark in Eclipse&lt;/p&gt;
+&lt;p&gt;- RainDropsLine - OnClick - border highlight for mouse-over, and the current block highlight like Default when clicking inside - GreyGradient&lt;/p&gt;
+&lt;p&gt;- Java_v_20&lt;/p&gt;
+&lt;p&gt;- OrangeToRed&lt;/p&gt;
+&lt;p&gt;- BlueToDeepBlue&lt;/p&gt;
+&lt;p&gt;- BlueGradient22WithDarkBoldLeftBorder&lt;/p&gt;
+&lt;p&gt;- BlueLight All and newer themes are inside &lt;a href=&quot;https://github.com/Nodeclipse/EditBox/tree/master/pm.eclipse.editbox/src&quot; rel=&quot;nofollow&quot;&gt;gh.c/N/EB/pm.eclipse.editbox/src&lt;/a&gt;. See &lt;a href=&quot;https://github.com/Nodeclipse/EditBox/commit/b7ceed8f1c391b691f39ee7f45b5613651ab91ca&quot; rel=&quot;nofollow&quot;&gt;how to add a theme into next version&lt;/a&gt;. Read &lt;a href=&quot;https://github.com/Nodeclipse/EditBox#editbox-eclipse-plugin&quot; rel=&quot;nofollow&quot;&gt;README&lt;/a&gt;. Included in &lt;a href=&quot;http://marketplace.eclipse.org/content/maven&quot; rel=&quot;nofollow&quot;&gt;Maven&lt;/a&gt; and &lt;a href=&quot;http://marketplace.eclipse.org/content/gradle&quot; rel=&quot;nofollow&quot;&gt;Gradle&lt;/a&gt; plugins.&lt;br /&gt;
+Listed in &lt;a href=&quot;/content/nodeclipse-plugins-list&quot; title=&quot;Nodeclipse Plugins List&quot; rel=&quot;nofollow&quot;&gt;Nodeclipse Plugins List&lt;/a&gt;.&lt;br /&gt;&lt;a href=&quot;http://with-eclipse.github.io/&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Thu, 27 Mar 2014 04:53:08 +0000</pubDate>
+ <dc:creator>pverest</dc:creator>
+ <guid isPermaLink="false">1582059 at http://marketplace.eclipse.org</guid>
+ <comments>http://marketplace.eclipse.org/content/nodeclipse-editbox-background-colors-themes-highlight-code-blocks-c-java-javascript-python#comments</comments>
+  </item>
+  <item>
+    <title>Eclipse Wild Web Developer - HTML, CSS, JavaScript, TypeScript, JSON, YAML, XML, Node.js...</title>
+    <link>http://marketplace.eclipse.org/content/eclipse-wild-web-developer-html-css-javascript-typescript-json-yaml-xml-nodejs</link>
+    <description>&lt;div class=&quot;field field-name-field-resource-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; class=&quot;img-responsive&quot; src=&quot;http://marketplace.eclipse.org/sites/default/files/wild-web-developer-marketplace-logo.png&quot; width=&quot;110&quot; height=&quot;78&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-updated field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Updated:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Tue, 2019-03-26 05:45&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;a href=&quot;/search/content/%22Eclipse%20Wild%20Web%20Developers%20Contributors%22&quot;&gt;Eclipse Wild Web Developers Contributors&lt;/a&gt;&lt;div class=&quot;field field-name-shared-date-created field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Created:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Thu, 2017-04-13 10:52&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-submitted-by field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Submitted by:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/user/mistria/listings&quot; title=&quot;Mickael Istria&quot;&gt;Mickael Istria&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;&lt;em&gt;S&lt;/em&gt;imple and rich &lt;strong&gt;edition&lt;/strong&gt; of typical main web and configuration files (HTML, CSS, JS, TS, JSON, YAML, XML -with schema support-) and &lt;strong&gt;debugging&lt;/strong&gt; of Node.js apps in the Eclipse IDE.&lt;/p&gt;
+&lt;p&gt;To see it in action, open the desired file with the &lt;em&gt;Generic Editor&lt;/em&gt; that&#039;s included by default in the Eclipse IDE.&lt;/p&gt;
+&lt;p&gt;Supported file formats for edition:&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;HTML&lt;/li&gt;
+&lt;li&gt;CSS, SCSS, SASS, LESS&lt;/li&gt;
+&lt;li&gt;JavaScript (EcmaScript 9)&lt;/li&gt;
+&lt;li&gt;TypeScript 3.3&lt;/li&gt;
+&lt;li&gt;JSON (including schema support)&lt;/li&gt;
+&lt;li&gt;YAML (including schema support, Kubernetes schema built-in)&lt;/li&gt;
+&lt;li&gt;XML (including schema support), XSL, XSD, DTD&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;Supported frameworks (file specialization) for edition:&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;Kubernetes&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;Supported feature for edition are&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;Validation (diagnostics, markers)&lt;/li&gt;
+&lt;li&gt;Code Completion&lt;/li&gt;
+&lt;li&gt;Hover&lt;/li&gt;
+&lt;li&gt;Outline&lt;/li&gt;
+&lt;li&gt;Rename refactoring&lt;/li&gt;
+&lt;li&gt;Jump to declaration&lt;/li&gt;
+&lt;li&gt;Find references&lt;/li&gt;
+&lt;li&gt;Color preview&lt;/li&gt;
+&lt;li&gt;... and other features part of the Language Server Protocol&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;Supported debugging target&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;Node.js&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt; &lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Thu, 13 Apr 2017 14:52:25 +0000</pubDate>
+ <dc:creator>mistria</dc:creator>
+ <guid isPermaLink="false">3394048 at http://marketplace.eclipse.org</guid>
+ <comments>http://marketplace.eclipse.org/content/eclipse-wild-web-developer-html-css-javascript-typescript-json-yaml-xml-nodejs#comments</comments>
+  </item>
+  <item>
+    <title>JRebel for Eclipse</title>
+    <link>http://marketplace.eclipse.org/content/jrebel-eclipse</link>
+    <description>&lt;div class=&quot;field field-name-field-resource-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; class=&quot;img-responsive&quot; src=&quot;http://marketplace.eclipse.org/sites/default/files/JRebel_EclipseMarketplace_110x80.png&quot; width=&quot;110&quot; height=&quot;80&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-updated field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Updated:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Tue, 2019-03-26 05:15&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;a href=&quot;/search/content/%22ZeroTurnaround%22&quot;&gt;ZeroTurnaround&lt;/a&gt;&lt;div class=&quot;field field-name-shared-date-created field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Created:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Tue, 2011-01-25 08:59&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-submitted-by field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Submitted by:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/user/owhite/listings&quot; title=&quot;JRebel ZeroTurnaround&quot;&gt;JRebel ZeroTurnaround&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;JRebel is a productivity tool that allows developers to reload code changes instantly. It skips the rebuild, restart, and redeploy cycle common in Java development. JRebel enables developers to get more done in the same amount of time and stay in the flow while coding. JRebel supports a majority of real-world enterprise java stacks and is easy to install into existing development environments.&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Tue, 25 Jan 2011 13:59:21 +0000</pubDate>
+ <dc:creator>owhite</dc:creator>
+ <guid isPermaLink="false">29591 at http://marketplace.eclipse.org</guid>
+ <comments>http://marketplace.eclipse.org/content/jrebel-eclipse#comments</comments>
+  </item>
+  <item>
+    <title>Java 12 Support for Eclipse 2019-03 (4.11)</title>
+    <link>http://marketplace.eclipse.org/content/java-12-support-eclipse-2019-03-411</link>
+    <description>&lt;div class=&quot;field field-name-field-resource-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; class=&quot;img-responsive&quot; src=&quot;http://marketplace.eclipse.org/sites/default/files/default_images/default_2.png&quot; width=&quot;110&quot; height=&quot;80&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-updated field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Updated:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Tue, 2019-03-26 02:16&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;a href=&quot;/search/content/%22The%20Eclipse%20Foundation%22&quot;&gt;The Eclipse Foundation&lt;/a&gt;&lt;div class=&quot;field field-name-shared-date-created field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Created:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Wed, 2019-03-13 02:51&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-submitted-by field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Submitted by:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/user/jarthanaree/listings&quot; title=&quot;Jay Arthanareeswaran&quot;&gt;Jay Arthanareeswaran&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;This marketplace solution provides Java 12 support for Eclipse 2019-03 (4.11). To install the feature, please ensure you have the 4.11 version of Eclipse IDE installed:&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://download.eclipse.org/eclipse/downloads/drops4/R-4.11-201903070500/&quot; rel=&quot;nofollow&quot;&gt;https://download.eclipse.org/eclipse/downloads/drops4/R-4.11-201903070500/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;The feature can also be installed via the update site:&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://download.eclipse.org/eclipse/updates/4.11-P-builds&quot; rel=&quot;nofollow&quot;&gt;https://download.eclipse.org/eclipse/updates/4.11-P-builds&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;For an informal list of examples of Java 12 features, please have a look at the following page:&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://wiki.eclipse.org/Java12/Examples&quot; rel=&quot;nofollow&quot;&gt;https://wiki.eclipse.org/Java12/Examples&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Wed, 13 Mar 2019 06:51:08 +0000</pubDate>
+ <dc:creator>jarthanaree</dc:creator>
+ <guid isPermaLink="false">4540402 at http://marketplace.eclipse.org</guid>
+ <comments>http://marketplace.eclipse.org/content/java-12-support-eclipse-2019-03-411#comments</comments>
+  </item>
+  </channel>
+</rss>
